@@ -1,49 +1,37 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1523339887730" stop="1523339887740">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1523355289961" stop="1523355289969">
   <name>test_login</name>
   <labels/>
   <test-cases>
-    <test-case start="1523339887730" status="passed" stop="1523339887734">
+    <test-case start="1523355289961" status="passed" stop="1523355289964">
       <name>TestLogin.test_login1</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="4320-MainThread"/>
+        <label name="thread" value="13840-MainThread"/>
         <label name="host" value="DESKTOP-NFM0P3R"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1523339887735" status="passed" stop="1523339887736">
+    <test-case start="1523355289966" status="passed" stop="1523355289967">
       <name>TestLogin.test_login2</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="4320-MainThread"/>
+        <label name="thread" value="13840-MainThread"/>
         <label name="host" value="DESKTOP-NFM0P3R"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1523339887737" status="passed" stop="1523339887738">
+    <test-case start="1523355289968" status="passed" stop="1523355289969">
       <name>TestLogin.test_login3</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="4320-MainThread"/>
-        <label name="host" value="DESKTOP-NFM0P3R"/>
-        <label name="framework" value="pytest"/>
-        <label name="language" value="cpython3"/>
-      </labels>
-      <steps/>
-    </test-case>
-    <test-case start="1523339887739" status="passed" stop="1523339887740">
-      <name>TestLogin.test_login4</name>
-      <attachments/>
-      <labels>
-        <label name="severity" value="normal"/>
-        <label name="thread" value="4320-MainThread"/>
+        <label name="thread" value="13840-MainThread"/>
         <label name="host" value="DESKTOP-NFM0P3R"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
