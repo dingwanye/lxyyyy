@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522381270064" stop="1522381270079">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1522381270064" status="passed" stop="1522381270069">
+      <name>TestLogin.test_login1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4769-MainThread"/>
+        <label name="host" value="HaoYosondeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522381270071" status="passed" stop="1522381270073">
+      <name>TestLogin.test_login2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4769-MainThread"/>
+        <label name="host" value="HaoYosondeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522381270074" status="passed" stop="1522381270076">
+      <name>TestLogin.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4769-MainThread"/>
+        <label name="host" value="HaoYosondeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522381270077" status="passed" stop="1522381270079">
+      <name>TestLogin.test_login4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4769-MainThread"/>
+        <label name="host" value="HaoYosondeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
